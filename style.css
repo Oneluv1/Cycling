@@ -1,0 +1,58 @@
+body{
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+
+
+/*.car{
+  width: 400px;
+  left: 50%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  position: absolute;
+  z-index: 2;
+}
+.car img {
+  width: 100%;
+  animation: car 1s linear infinite;
+}
+@keyframes car {
+  100%{
+    transform: translateY(-1px);
+  }
+  50%{
+    transform: translateY(1px);
+  }
+  0%{
+    transform: translateY(-1px);
+  }
+}
+
+.wheel{
+  left: 50%;
+  bottom: 183px;
+  transform: translateX(-50%);
+  position: absolute;
+  z-index: 2;
+  
+}
+.wheel img{
+  width: 72px;
+  height: 72px;
+  animation: wheel 1s linear infinite;
+}
+.front-wheel{
+  left: 80px;
+  position: absolute;
+}
+.back-wheel{
+  left: -165px;
+  position: absolute;
+}
+
+@keyframes wheel{
+  100%{
+    transform: rotate(360deg);
+  }*/
